@@ -1,0 +1,1 @@
+g++ 'nazwa.cpp' $(root-config --cflags --glibs)
